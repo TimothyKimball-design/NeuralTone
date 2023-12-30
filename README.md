@@ -4,15 +4,15 @@ This project shows how to use neural networks to enhance images. I accomplish th
 
 Overview
 
-A set of target images is used to train the neural network, and the trained model is then applied to improve an input image. To increase overall performance, multiple neural networks are trained simultaneously during the training process.
+A set of target images is used to train the neural network, and the trained model is then applied to improve an input image. To increase overall performance, multiple neural networks were added and are trained simultaneously during the training process.
 
 Training Data: A set of target images (art2.jpg to art10.jpg) is used to prepare the training data.
 
-Neural Network: Three neural networks are constructed and trained in parallel.
+Neural Network: Neural networks are constructed and trained in parallel.
 
 Enhancement: Using the trained neural networks, the input image is made better.
 
-Output Image: enhanced.jpg is where the improved image is saved.
+Output Image: Enhanced.jpg is where the improved image is saved.
 
 Configuration
 
