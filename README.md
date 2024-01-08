@@ -1,7 +1,5 @@
 # NeuralTone
 
-This project shows how to use neural networks to enhance images. I accomplish this by leveraging a neural network implementation in Java that has been trained to improve grayscale images.
-
 **Overview**
 
 A set of target images is used to train the neural network, and the trained model is then applied to improve an input image. To increase overall performance, multiple neural networks were added and are trained simultaneously during the training process.
